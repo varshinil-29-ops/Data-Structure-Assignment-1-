@@ -1,2 +1,9 @@
 # Data-Structure-Assignment-1-
 This repository contains C programs for basic applications of Stack and Queue in Data Structures. It includes problems like string reversal, balanced parentheses checking, next greater element, printer queue simulation, and circular queue operations. These programs are written in simple and easy to understand code.
+
+Data Structure Assignment – Stack and Queue
+
+Name: Laki Reddy Varshini
+Roll Number: 31
+Course: Introduction to Data Structure
+University: Sai University
